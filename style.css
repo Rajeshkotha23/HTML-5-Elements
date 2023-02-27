@@ -1,0 +1,55 @@
+body{
+    margin: 0 ;
+  padding: 0 ;
+  background-color: DodgerBlue ;
+}
+#navcontainer{
+  display: flex ;
+  background-color: RGB(197,170,106) ;
+}
+.navitems{
+  padding: 10px ;
+  margin: 0 ;
+  font-size: 18px ;
+  color: darkblue ;
+}
+.navitems:hover{
+ background-color: gray ;
+  cursor: pointer ;
+  
+}
+ article{ 
+   background-color: lightpink ;
+   padding: 20px;
+   margin-bottom: 30px ;
+}
+   #maincontainer {
+    background-color: yellow ;
+    padding: 20px;
+     
+}
+header{ font-size: 30px ;
+  font-weight: 600 ;
+}
+p{
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+summary{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: 600 ;
+}
+    marquee{
+      font-size: 20px ;
+       font-weight: 600 ;
+        font-family: Verdana, Geneva, Tahoma, sans-serif ;
+      
+    }
+footer{
+    padding: 20px;
+    text-align: center;
+    background-color: RGB(197,170,106);
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+}
+
